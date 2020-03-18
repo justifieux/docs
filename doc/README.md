@@ -1,7 +1,7 @@
 # Wingbot.ai
 Chatbot platform for large scale
 
-Adventages
+Advantages
 - Effectivity - reduces common overhead in chatbot production
 - Flexibility - open to integration and deployment possibilities
 - Security - sensitive data under control
